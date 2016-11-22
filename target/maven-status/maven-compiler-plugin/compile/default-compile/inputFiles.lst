@@ -1,0 +1,10 @@
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/dao/AbstractDao.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/service/StudentServiceImpl.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/dao/StudentDaoImpl.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/configuration/AppConfig.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/service/StudentService.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/controller/AppController.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/configuration/AppInitializer.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/configuration/HibernateConfiguration.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/dao/StudentDao.java
+/Users/rishikumar15/Documents/workspace/projectprototype/src/main/java/com/rishi/springmvc/model/Student.java
